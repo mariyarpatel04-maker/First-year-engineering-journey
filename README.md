@@ -1,7 +1,7 @@
 # First-year-engineering-journey
 My learning journey as first year engineering student
 
-● Currently learning
+- Currently learning
 - C programming
 - HTML
 - Git and Github
